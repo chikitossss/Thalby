@@ -146,11 +146,13 @@ section article h5{
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 300px;
+    max-width: 340px;
 }
 .pic_in_sec{
     display: flex ;
-    justify-content: center
+    justify-content: center;
+    align-items: center;
+
 }
 .pic_pad{
     padding-right: 30px;
@@ -175,4 +177,71 @@ section article a{
     text-decoration-line: underline;
     color: #000000;
 }
+.owl-item{
+    text-align: center;
+}
+.owl-carousel .owl-item img{
+    max-width: 1070px;
 
+}
+.owl-stage{
+    display: flex;
+    align-items: center;
+}
+.owl-nav .owl-prev{
+    position: absolute;
+    left: -35px;
+    top: 210px;
+}
+
+.owl-nav .owl-prev:before{
+    font-weight: 900;
+    font-family: "Font Awesome 6 Free";
+    content: "\f053";
+    color: #000000;
+    font-size: 50px;
+}
+
+.owl-nav .owl-next{
+    position: absolute;
+    right: -35px;
+    top: 210px;
+}
+
+.owl-nav .owl-next:before{
+    font-weight: 900;
+    font-family: "Font Awesome 6 Free";
+    content: "\f053";
+    color: #000000;
+    font-size: 50px;
+    transform: rotate(180deg);
+    display: inline-block;
+}
+.ui-widget.ui-widget-content{
+    background-color: black;
+}
+
+.owl-dots{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    bottom: 0;
+    top: 50px;
+    padding-bottom: 45px;
+}
+.owl-dots span{
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    background: #343434;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.owl-dots .active span{
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    background: #7700a6;
+    border-radius: 50%;
+}
