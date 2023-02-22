@@ -1,0 +1,30 @@
+.sec4_main {
+  background: white;
+  background-size: cover;
+  padding-bottom: 50px;
+  padding-top: 50px; }
+  .sec4_main h4 {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: black;
+    padding-top: 140px;
+    padding-bottom: 70px; }
+  .sec4_main span {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: black; }
+  .sec4_main .span_color {
+    display: flex;
+    flex-wrap: wrap; }
+    .sec4_main .span_color img {
+      padding-bottom: 111px; }
+
+/*# sourceMappingURL=sec6.css.map */

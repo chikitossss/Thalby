@@ -1,0 +1,18 @@
+@import "owl.carousel.css";
+@import "owl.theme.default.css";
+@import "mobile_menu";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import "Head";
+@import "sec1";
+@import "sec2";
+@import "sec3+4+5";
+@import "sec6";
+@import "sec7";
+@import "sec8";
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+@import "media_scss";

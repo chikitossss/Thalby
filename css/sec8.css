@@ -1,0 +1,35 @@
+.sec6_main {
+  background-color: #E5E5E5;
+  padding-top: 25px;
+  padding-bottom: 25px; }
+  .sec6_main h2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    padding-bottom: 9px;
+    padding-top: 35px; }
+  .sec6_main p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000; }
+
+.div_name {
+  max-width: 160px;
+  margin: auto; }
+
+.sec6_main form .div_name label {
+  display: none; }
+
+.sec6_main form .div_name input {
+  border: 1px solid #000000;
+  border-radius: 0px; }
+
+/*# sourceMappingURL=sec8.css.map */

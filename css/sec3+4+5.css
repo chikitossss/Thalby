@@ -1,0 +1,85 @@
+.sec2_main {
+  background: #F0EFEB;
+  background-size: cover;
+  padding-bottom: 50px;
+  padding-top: 50px; }
+  .sec2_main h2 {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+    padding-left: 50px;
+    padding-top: 70px;
+    padding-bottom: 31px; }
+  .sec2_main .sec2_img {
+    max-width: 100%; }
+  .sec2_main .sec2_div {
+    display: flex;
+    align-items: flex-start; }
+  .sec2_main p {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+    padding-left: 50px;
+    padding-bottom: 31px;
+    max-width: 500px; }
+  .sec2_main a {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: black;
+    padding-left: 50px;
+    padding-bottom: 31px; }
+
+.sec3_main {
+  background: rgba(204, 204, 204, 0.6);
+  background-size: cover;
+  padding-bottom: 50px;
+  padding-top: 50px; }
+  .sec3_main .sec3_div {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row-reverse; }
+  .sec3_main h2 {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+    padding-right: 50px;
+    padding-top: 70px;
+    padding-bottom: 31px; }
+  .sec3_main p {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: black;
+    padding-right: 50px;
+    padding-bottom: 31px;
+    max-width: 500px; }
+  .sec3_main a {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: black;
+    padding-right: 50px;
+    padding-bottom: 31px; }
+
+.text_al {
+  text-align: end; }
+
+/*# sourceMappingURL=sec3+4+5.css.map */

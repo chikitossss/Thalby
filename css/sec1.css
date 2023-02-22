@@ -1,0 +1,38 @@
+.main_banner {
+  background-color: #F0EFEB; }
+
+.sec_vol1 {
+  display: flex;
+  align-items: center; }
+
+.main_banner .sec_vol1 p {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: black;
+  padding-bottom: 33px; }
+.main_banner .sec_vol1 h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 70px;
+  color: black;
+  padding-bottom: 42px; }
+
+.shop {
+  background: black;
+  border: 1px solid black;
+  border-radius: 100px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 20px;
+  color: white;
+  text-decoration: none;
+  padding: 7px 23px 9px 23px; }
+
+/*# sourceMappingURL=sec1.css.map */

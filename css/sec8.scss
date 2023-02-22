@@ -1,0 +1,43 @@
+$black_color: black;
+$white_color: white;
+$main_font: 'Roboto', sans-serif;
+
+
+.sec6_main{
+  background-color: #E5E5E5;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  h2{
+    font-family: $main_font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: $black_color;
+    padding-bottom: 9px;
+    padding-top: 35px;
+
+  }
+  p{
+    font-family: $main_font;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: $black_color;
+  }
+}
+
+.div_name{
+  max-width: 160px;
+  margin: auto;
+}
+.sec6_main form .div_name label{
+  display: none;
+}
+.sec6_main form .div_name input{
+  border: 1px solid #000000;
+  border-radius: 0px;
+}
